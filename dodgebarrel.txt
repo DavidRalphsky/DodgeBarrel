@@ -1,0 +1,7 @@
+"dodgebarrel"
+{
+	"title"			"DodgeBarrel"
+	"menusystem"	"1"
+	"author_name"	"David Ralphsky"
+	"maps"			"^dbarrel_"
+}
